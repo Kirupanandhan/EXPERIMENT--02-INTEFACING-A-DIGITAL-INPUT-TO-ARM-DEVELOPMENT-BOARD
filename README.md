@@ -163,7 +163,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
  
  ![Alt text](image.png)
- ![Alt text](image-1.png)
+![image](https://github.com/Kirupanandhan/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/94386222/7c5e1b45-6d1c-43a6-b751-89096f3902f9)
+
  
  
 ## Result :
